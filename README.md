@@ -1,6 +1,3 @@
-
-
-```markdown
 # Snake Game
 
 A simple Snake Game implemented using HTML, CSS, and JavaScript (JQuery).
@@ -14,16 +11,16 @@ This project is a basic Snake Game created with the following technologies:
 
 ## Demo
 
-You can play the game [here](kapileswar-moharana.github.io/Snake-Game/).
+You can play the game - (kapileswar-moharana.github.io/Snake-Game/).
 
 ## Getting Started
 
 To run the Snake Game locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/Kapileswar-Moharana/Snake-Game.git
-   ```
+
 
 2. Open `index.html` in your preferred web browser.
 
