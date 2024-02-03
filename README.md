@@ -11,7 +11,7 @@ This project is a basic Snake Game created with the following technologies:
 
 ## Demo
 
-You can play the game - [here](kapileswar-moharana.github.io/Snake-Game/).
+You can play the game - [here](https://kapileswar-moharana.github.io/Snake-Game/)
 
 ## Getting Started
 
